@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="OnlineBusBookingConnectionString-Web.config Connection String" description="OnlineBusBookingConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:busbookingprojectdbserver01.database.windows.net,1433;Initial Catalog=BusBookingProject_db;Persist Security Info=False;User ID=gurumallesh;Password=Guru@7760;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\LENOVO\\source\\repos\\bus-online-booking\\code\\BusBookingProject\\BusBookingProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OnlineBusBookingConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
